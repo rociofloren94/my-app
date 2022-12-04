@@ -1,0 +1,31 @@
+.contenedor-proyectos {
+    width: 450px;
+    height: 700px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    /*justify-content: center;*/
+    background-color: #f5d6e7;
+    box-shadow: 0 3px 13px 1px #363636;
+    flex-direction: column;
+}
+
+.imagen-proyectos {
+    width: 420px;
+    height: 420px;
+    border-radius: 0.6rem;
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+
+.nombre-proyecto {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.texto-proyecto {
+    margin-right: 15px;
+    margin-left: 15px;
+    text-align: justify;
+}
