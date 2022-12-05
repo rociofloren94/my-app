@@ -4,6 +4,10 @@ import Presentacion from './Componentes/Presentacion';
 import Proyectos from './Componentes/Proyectos';
 
 
+let entrada = prompt("Ingresa tu nombre");
+let salida = entrada + " " + "bienvenido/a a mi portfolio!";
+alert(salida);
+
 function App() {
   return (
     <div className="App">
