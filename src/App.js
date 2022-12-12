@@ -3,6 +3,7 @@ import './App.css';
 import Presentacion from './Componentes/Presentacion';
 import Proyectos from './Componentes/Proyectos';
 import NavBar from './Componentes/NavBar';
+import Habilidades from './Componentes/Habilidades';
 
 
 
@@ -35,6 +36,7 @@ function App() {
         imagen='ropa'
         link='https://bootstrap-sand.vercel.app/'
         />
+        <Habilidades/>
       </div>
     </div>
   );

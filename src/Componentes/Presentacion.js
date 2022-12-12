@@ -8,7 +8,7 @@ function Presentacion() {
             src={require('../Imagenes/Logo RC.png')}
             alt='Imagen logo'/>
             <div className='contenedor-texto-presentacion'>
-                <p className='nombre-presentacion'>Rocio Florencia</p>
+                <p className='nombre-presentacion'>Rocio Cruz</p>
                 <p className='acerca-presentacion'>Acerca de mí</p>
                 <p className='texto-presentacion'>¡Hola! Soy Rocio, soy profesora de Artes y durante la
                 cursada de mi carrera conocí distintas herramientas informáticas que me despertaron interés 
