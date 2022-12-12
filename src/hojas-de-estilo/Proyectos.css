@@ -12,7 +12,7 @@
 
 .imagen-proyectos {
     width: 420px;
-    height: 420px;
+    height: auto;
     border-radius: 0.6rem;
     margin-top: 15px;
     margin-bottom: 40px;

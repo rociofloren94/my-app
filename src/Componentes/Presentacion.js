@@ -5,8 +5,8 @@ function Presentacion() {
     return (
         <div className='contenedor-presentacion'>
             <img className='imagen-presentacion'
-            src={require('../Imagenes/bird-g2036da5fc_1280.png')}
-            alt='Imagen Kawaii'/>
+            src={require('../Imagenes/Logo RC.png')}
+            alt='Imagen logo'/>
             <div className='contenedor-texto-presentacion'>
                 <p className='nombre-presentacion'>Rocio Florencia</p>
                 <p className='acerca-presentacion'>Acerca de mí</p>

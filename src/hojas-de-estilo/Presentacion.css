@@ -1,6 +1,6 @@
 .contenedor-presentacion {
-    width: 1170px;
-    height: 368px;
+    width: 95%;
+    height: 25%;
     margin: 10px 10px 50px;
     display: flex;
     align-items: center;
@@ -10,8 +10,9 @@
 }
 
 .imagen-presentacion {
-    height: 400px;
-    width: 400px;
+    height: 20%;
+    width: auto;
+    margin-left: 5%;
 }
 
 .contenedor-texto-presentacion {

@@ -1,0 +1,16 @@
+
+.contenedor-nav {
+    border-style: double;
+}
+
+
+.contenedor-texto-nav {
+    display: flex;
+    align-items: center;
+    margin: 1% 5% 1% 5%;
+}
+
+
+.inicio-nav .proyectos-nav {
+    margin: 1% 5% 1% 5%;
+}
